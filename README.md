@@ -108,6 +108,11 @@ This project is built specifically for AI-native experience evaluation:
 - Mobile-first camera-based experience
 
 ---
+## 🌐 Live Prototype
+🔗 https://labeliq.streamlit.app/
+
+---
+
 ## 👤 Team
 
 - **Project Lead** - Mayuri Bhaladhare
